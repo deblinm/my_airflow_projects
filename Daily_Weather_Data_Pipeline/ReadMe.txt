@@ -1,4 +1,5 @@
-Objective: Use an API (e.g., OpenWeatherMap) to fetch weather data daily and store it in a local SQLite/PostgreSQL database.
+Objective: Use an API (e.g., OpenWeatherMap) to fetch weather data daily and store it in a local 
+MySQL database.
 
 Skills: Sensors, PythonOperator, scheduling.
 
